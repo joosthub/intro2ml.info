@@ -9,7 +9,7 @@ Machine Learning with PyTroch
    faq
 
 
-Hello! This is a directory of resources for a training tutorial to be
+Welcome! This is a directory of resources for a training tutorial to be
 given at the O'Reilly Strata Conference in San Jose on March 5th and 6th, 2018.
 
 
@@ -19,8 +19,8 @@ General Information
 Prerequisites:
 ^^^^^^^^^^^^^
 
-- A working knowledge of Python and the command line
-- Familiarity with precalc math (multiply matrices, dot products of vectors, etc.) and derivatives of simple functions 
+- A working knowledge of Python.
+- Familiarity with precalc math (multiply matrices, dot products of vectors, etc.) and derivatives of simple functions.
 
 Agenda
 ^^^^^^

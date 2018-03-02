@@ -44,8 +44,8 @@ master_doc = 'index'
 
 # General information about the project.
 project = 'Machine Learning with PyTorch'
-copyright = '2018, Brian McMahan and Delip Rao'
-author = 'Brian McMahan and Delip Rao'
+copyright = '2018, Delip Rao and Brian McMahan'
+author = 'Delip Rao and Brian McMahan'
 
 # The version info for the project you're documenting, acts as replacement for
 # |version| and |release|, also used in various other places throughout the
@@ -125,7 +125,7 @@ latex_elements = {
 #  author, documentclass [howto, manual, or own class]).
 latex_documents = [
     (master_doc, 'pytorch_ml_sj2018.tex', 'pytorch_ml_sj2018 Documentation',
-     'Brian McMahan and Delip Rao', 'manual'),
+     'Delip Rao and Brian McMahan', 'manual'),
 ]
 
 
