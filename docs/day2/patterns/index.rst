@@ -1,6 +1,0 @@
-NN Patterns
-===========
-
-.. toctree::
-
-   attention
