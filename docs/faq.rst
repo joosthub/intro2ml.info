@@ -1,4 +1,4 @@
-Frequency Asked Questions
+Frequency Anticipated Questions
 =========================
 
 On this page, you will find a list of questions that we either anticipate
