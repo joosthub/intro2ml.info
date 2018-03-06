@@ -21,7 +21,7 @@ For creating the initial hidden and input vectors, we make use of the Vocabulari
    hidden_0_index = Variable(torch.LongTensor([nationality_index]))
    hidden_0 = model.nat_emb(hidden_0_index)
 
-Now, the goal is to use these input and hidden vectors to compute the next hiddne vector.
+Now, the goal is to use these input and hidden vectors to compute the next hidden vector.
 
 .. code-block:: python
 
@@ -37,3 +37,6 @@ Now, the goal is to use these input and hidden vectors to compute the next hiddn
    index_1 = torch.multinomial(y_t, 1)[:, 0]
    # or argmax
    # index_1 = torch.max(y_t, dim=1)[1]
+
+
+What's left: write a loop that performs these computations, aggregates the indices, and outputs them. Additionally, you will have to use the vocab to lookup each index.
