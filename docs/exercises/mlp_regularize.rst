@@ -1,4 +1,4 @@
-Regularize MLP
+Regularize the MultiLayer Perceptron Model
 ==============
 1. Make a copy of the Unit5-MLP notebook
 2. Consider adding an L2 penalty to the loss. What is the change in performance?
