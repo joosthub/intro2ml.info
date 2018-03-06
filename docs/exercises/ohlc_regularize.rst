@@ -1,2 +1,0 @@
-Regularize Bitcoin RNN
-======================
